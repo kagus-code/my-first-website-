@@ -6,11 +6,10 @@
 ## Setup/Installation Requirements
 * A web browser that supports HTML5
 ## Technologies Used
-{HTML.}
+HTML.
 ## Support and contact details
-{|Name|Email|Address|
-|----|-----|
-|Eston|ekagwima745@gmail.com|}
+|Eston|ekagwima745@gmail.com|
 ### License
-*{This project is under MIT license.  See below for more details on licensing.}*
-Copyright (c) {year} **{Eston and Fatma}**
+*This project is under MIT license. 
+ See below for more details on licensing.*
+Copyright (c) 2021 **Eston and Fatma**
