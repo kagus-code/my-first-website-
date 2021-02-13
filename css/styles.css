@@ -1,14 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+header {
+  background-color: rgb(224, 43, 43);
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 50px;
+}
+body {
+  background-color: rgb(17, 19, 19);
+  color: aliceblue;
+}
 h1 {
-  color:#E6593B;
   text-align: center;
 }
-h2 {font-style: italic;
-color:#0000ff;
-text-align: center;
+h2 {
+  font-style: italic;
+  text-align: center;
 }
 p {
   font-family: sans-serif;
 }
-ul{
+ul {
   line-height: 40px;
+}
+img {
+  float: inherit;
+  border-radius: 400px;
+}
+.logo {
+  width: 70px;
+  float: none;
+}
+.section1 {
+  float: right;
+}
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+  float: inline-start;
 }
